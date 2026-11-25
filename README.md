@@ -1,8 +1,8 @@
-# SQL Formatter
+# SQL Pretty Minify
 
 Pretty-print and minify SQL in your browser. No server, no tracking, no third-party scripts.
 
-**Live demo:** https://0xelitesystem.github.io/sql-formatter/
+**Live demo:** https://0xelitesystem.github.io/sql-pretty-minify/
 
 ## Use
 
@@ -38,8 +38,8 @@ Everything runs in your browser. The SQL you paste never leaves your machine. Ve
 ## Run locally
 
 ```bash
-git clone https://github.com/0xelitesystem/sql-formatter
-cd sql-formatter
+git clone https://github.com/0xelitesystem/sql-pretty-minify
+cd sql-pretty-minify
 # Open index.html in your browser, or:
 python -m http.server 8000
 ```
