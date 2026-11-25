@@ -58,6 +58,6 @@ MIT.
 
 ## Related
 
-- [json-formatter-and-validator](https://github.com/0xelitesystem/json-formatter-and-validator)
+- [json-format-minify-validate](https://github.com/0xelitesystem/json-format-minify-validate)
 - [csv-to-anything](https://github.com/0xelitesystem/csv-to-anything)
 - [naming-case-converter](https://github.com/0xelitesystem/naming-case-converter)
