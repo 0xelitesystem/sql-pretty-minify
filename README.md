@@ -60,4 +60,4 @@ MIT.
 
 - [json-formatter-and-validator](https://github.com/0xelitesystem/json-formatter-and-validator)
 - [csv-to-anything](https://github.com/0xelitesystem/csv-to-anything)
-- [case-converter](https://github.com/0xelitesystem/case-converter)
+- [naming-case-converter](https://github.com/0xelitesystem/naming-case-converter)
